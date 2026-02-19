@@ -39,7 +39,7 @@
 > 구글 소셜 로그인 · 이메일 인증
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/429eb910-d070-4d96-a465-f18f0e4858ed">
+ <img width="50%" src="https://github.com/user-attachments/assets/662b9d64-2786-473b-9549-2e326e56007f">
 </div>
 
 <br/>
@@ -49,7 +49,7 @@
 > 헤더 통합 검색 · 인기 강좌 · 챗봇 상담 서비스
 
 <div align="center">
- 메인
+ <img src="https://github.com/user-attachments/assets/f5dd9991-8ed3-4dde-b675-427e7da44843">
 </div>
 
 <br/>
@@ -57,25 +57,45 @@
 ### 👤 마이페이지
 
 > 학습현황 ·  결제 내역 ·  회원 정보 수정 · 즐겨찾는 강의 · 작성한 수강평
-<div align="center">
- 마이페이지
-</div>
-
+<table>
+  <tr style="vertical-align:bottom">
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ef21c908-345d-4d40-ace5-a41264181533" />
+      <br/><sub><b>대시보드</b></sub>
+    </td>
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/10846abe-f9f1-4166-a4c1-fc2185a00022" />
+      <br/><sub><b>즐겨찾는 강의</b></sub>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr style="vertical-align:bottom">
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/8d66e390-4e34-4b1e-a0dd-52aa07978f68" />
+      <br/><sub>내 정보 관리<b></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/40abb597-31b2-4de2-aae8-d442a6ef89b0" />
+      <br/><sub><b>수강평 관리</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ### 💻 강의 상세 및 결제
 
 > 강의 상세 ·  좋아요 ·  수강평 작성 및 신고 · 예약 가능 여부
-
 <table>
   <tr style="vertical-align:bottom">
     <td align="center">
-      강의 상세 및 결제
-      <br/><sub><b>강사 화면</b></sub>
+     <img src="https://github.com/user-attachments/assets/aee38bd6-82f3-4df2-b907-cbafefaa193a" />
+      <br/><sub>강의 목록<b></b></sub>
     </td>
     <td align="center">
-      <br/><sub><b>학생 화면</b></sub>
+      <img src="https://github.com/user-attachments/assets/eaa8fdb0-9db7-4da3-b815-cc1620d4d519" />
+      <br/><sub><b>수강평 신고</b></sub>
     </td>
   </tr>
 </table>
@@ -87,7 +107,7 @@
 > 강의 진행률 실시간 표시 · 챕터 이동
 
 <div align="center">
- 
+ <img src="https://github.com/user-attachments/assets/7547c380-69ef-4df9-aca2-f164c0feecc8">
 </div>
 
 <br/>
@@ -96,10 +116,18 @@
 
 > 통계 대시보드 · 강의 등록 및 관리 · 수강평 신고 관리 ·  공지 및 챗봇 관리
 
-<div align="center">
- 
-</div>
-
+<table>
+  <tr style="vertical-align:bottom">
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/2e35369a-2397-46df-98e2-b9c9ebf773c4" />
+      <br/><sub>대시보드<b></b></sub>
+    </td>
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/cfc63f83-7d14-41fe-a34d-c2418e931c66" />
+      <br/><sub><b>강의 관리</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
